@@ -18,13 +18,9 @@ Smart Guardian is an end-to-end network security monitoring application designed
 ### 1. Normal Network Behavior (System Secure)
 <img width="1016" height="616" alt="4" src="https://github.com/user-attachments/assets/694d8fd7-981d-4182-980f-3dcb793400d1" />
 
-```
-```
-
 ### 2. Anomaly Detected (Security Alert)
-*Place your screenshot showing the red/orange critical warning alert here*
+<img width="1017" height="617" alt="5" src="https://github.com/user-attachments/assets/c7febfcf-fda4-4bb9-bf11-6a5cca494c6a" />
 
-```
 ## 🧠 Behind the Scenes: The Smart Threshold Algorithm
 Instead of predefined legacy rule-sets, the Python backend continuously analyzes the historical device behavior:
  1. **Baseline Calculation:** The system computes the running Mean (\mu) and Standard Deviation (\sigma) of the network traffic telemetry.
