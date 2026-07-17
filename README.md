@@ -16,7 +16,7 @@ Smart Guardian is an end-to-end network security monitoring application designed
 ## 📸 Dashboards & Live Demo
 
 ### 1. Normal Network Behavior (System Secure)
-*Place your screenshot showing the green secure screen here*
+<img width="1016" height="616" alt="4" src="https://github.com/user-attachments/assets/694d8fd7-981d-4182-980f-3dcb793400d1" />
 
 ```
 ```
